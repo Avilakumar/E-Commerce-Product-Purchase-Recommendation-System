@@ -1,0 +1,18 @@
+Column Name,Data Type,Missing Values,Unique Values
+Campaign_ID,object,0,10000
+Product_ID,object,0,10000
+Budget,float64,0,9995
+Clicks,int64,0,4298
+Conversions,int64,0,999
+Revenue_Generated,float64,0,9997
+ROI,float64,0,451
+Customer_ID,object,0,10000
+Subscription_Tier,object,0,3
+Subscription_Length,int64,0,35
+Flash_Sale_ID,object,0,10000
+Discount_Level,int64,0,60
+Units_Sold,int64,0,199
+Bundle_ID,object,0,10000
+Bundle_Price,float64,0,8977
+Customer_Satisfaction_Post_Refund,int64,0,4
+Common_Keywords,object,0,4
